@@ -29,9 +29,11 @@ When we run this we will be welcomed with a banner "Title Fetcher"
 Now the program will start to fetch data from the urls given
 
 Once the program completely runs a new "responce.csv" file will be created
-![2021-07-27 20_13_09-task2 - Replit and 30 more pages - Personal - Microsoft​ Edge](https://user-images.githubusercontent.com/82680541/127176734-7a42a8e5-4708-4901-aebf-d2d2e3d80ab1.png)
+![responce created](https://user-images.githubusercontent.com/82680541/127180812-ddd95877-6940-43b8-85ab-fdac499512cc.png)
+
 
 "responce.csv" will contain all the fetched data from the urls:
-![2021-07-27 20_13_19-task2 - Replit and 30 more pages - Personal - Microsoft​ Edge](https://user-images.githubusercontent.com/82680541/127179285-74dae0c1-2985-4956-86b4-a6d2872590a6.png)
+![2021-07-27 20_45_01-task2 - Replit and 31 more pages - Personal - Microsoft​ Edge](https://user-images.githubusercontent.com/82680541/127180276-ccd16722-2e46-459c-8806-65d7858205f8.png)
+
 
 python3 
