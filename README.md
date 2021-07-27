@@ -3,11 +3,11 @@ A python script to fetch title, status and content of urls in a list. The script
 
 The script takes filename as a input and fetch list of urls from the user-defined filename. Currently the script fetches below details from the url :
 "list.txt" which contains following links:
-www.github.com
-www.replit.com
-www.youtube.com
-www.facebook.com
-www.twitter.com
+www.github.com,
+www.replit.com,
+www.youtube.com,
+www.facebook.com,
+www.twitter.com,
 
 
 Example :
