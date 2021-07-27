@@ -29,7 +29,7 @@ When we run this we will be welcomed with a banner "Title Fetcher"
 Now the program will start to fetch data from the urls given
 
 Once the program completely runs a new "responce.csv" file will be created
-![responce created](https://user-images.githubusercontent.com/82680541/127180812-ddd95877-6940-43b8-85ab-fdac499512cc.png)
+![responce created](https://user-images.githubusercontent.com/82680541/127192400-e47d67a5-b641-466b-8075-761d440b3678.png)
 
 
 "responce.csv" will contain all the fetched data from the urls:
